@@ -1,5 +1,5 @@
 ## Blog-App
-A simple blog app using Express and Mongoose. It's a work in progress project and I have planned to add more features in it which will be updated soon.
+A simple blog app using Express and Mongoose. It's a work in progress project and I have planned to add some more features in it which will be updated soon.
 
 ##Features
 - User Authentication
