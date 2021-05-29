@@ -1,0 +1,22 @@
+
+<h1 class="mt-4">Home Page</h1>
+<p class="leqad mb-3">Welcome <%= name %></p>
+
+<!--Main Site-->
+<main id="site-main">
+    <div class="container">
+        <div class="box-nav d-flex justify-between">
+            <a href="/add_posts" class="border-shadow">
+                <span class="text-gradient"><i class="fas fa-plus"></i> Add New Post </span>
+            </a>
+        </div>
+ 
+        <!--form handling-->
+        <div class="row">
+                <%-include('partials/showforindex')%>
+        </div>
+        <!--form handling-->
+    </div>
+ </main>
+ <!--Main Site-->
+ 
