@@ -1,12 +1,12 @@
 ## Blog-App
 A simple blog app using Express and Mongoose. It's a work in progress project and I have planned to add some more features in it which will be updated soon.
 
-##Features
+## Features
 - User Authentication
 - User can Add/Update/Delete his post
 - Can see other user's posts
 
-##Technologies Used
+## Technologies Used
 - ExpressJS
 - Passport
 - BcryptJS
