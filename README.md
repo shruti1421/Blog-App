@@ -29,7 +29,7 @@ npm start
 
 ### Deploy
 
-This project is deployed on netlify. It can be found live at [Click here](https://arcane-mountain-58460.herokuapp.com/).
+This project is deployed on herokuapp. It can be found live at [Click here](https://arcane-mountain-58460.herokuapp.com/).
 
 
 ## Features to be added:
