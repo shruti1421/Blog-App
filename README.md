@@ -33,8 +33,9 @@ This project is deployed on herokuapp. It can be found live at [Click here](http
 
 
 ## Features to be added:
-- User can like and comment on every post
+- Like and comment feature.
 - Can upload images in his post.
+- Search feature
 
 P.S This project is not finished yet so, if anyone wants to add or improve some features feel free to open a pull request.
 
